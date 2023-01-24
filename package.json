@@ -1,6 +1,6 @@
 {
   "name": "@-amazeelabs/silverback_translations",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Amazee Labs <development@amazeelabs.com>",
   "license": "GPL-2.0+",
   "publishConfig": {
@@ -15,5 +15,5 @@
   "scripts": {
     "version": "sync-composer-version"
   },
-  "gitHead": "32fd38cd76892a75794fdbea8ee528c736a53516"
+  "gitHead": "064e67a4f2c17b2977b0b99016ffa9dcb640a40f"
 }
